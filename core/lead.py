@@ -1,3 +1,12 @@
+# Update Lead.
+def update_lead():
+  print "Lead updated successfully."
+<html>
+  <body>
+    <h1>Update Lead</h1>
+  </body>
+</html>
+
 ##
 # Lead feature functionalities.
 ##
@@ -5,20 +14,19 @@
 
 # Create Lead.
 def create_lead():
-  print "Created the Lead successfully."
+  print "Created Lead successfully."
 
 
 # Update Lead.
 def update_lead():
-  print " The Lead updated successfully."
+  print "Lead updated successfully."
 
 
 # Delete Lead.
 def delete_lead():
-  print "The Lead removed successfully."
+  print "Deleted the Lead successfully."
 
 
-# View Lead.
-def view_lead():
-  print "View the Lead."
-
+# Access Lead.
+def access_lead():
+  print "Access the Lead."
