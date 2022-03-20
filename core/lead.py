@@ -5,17 +5,17 @@
 
 # Create Lead.
 def create_lead():
-  print "Created Lead successfully."
+  print "Created the Lead successfully."
 
 
 # Update Lead.
 def update_lead():
-  print "Lead updated successfully."
+  print " The Lead updated successfully."
 
 
 # Delete Lead.
 def delete_lead():
-  print "Lead removed successfully."
+  print "The Lead removed successfully."
 
 
 # View Lead.
